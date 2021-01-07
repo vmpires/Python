@@ -1,7 +1,8 @@
 # JornadaByLearn
 
-This repository is product of a Python Bootcampo called Jornada ByLearn
+Este repositório é produto de umm bootcamp chamado Jornada ByLearn, ministrada por Felipe Cabrera e feito entre 04/01/2021 e 07/01/2021. 
 
+This repository is product of a Python Bootcamp called Jornada ByLearn, taught by Felipe Cabrera and taken between January 04, 2021 and January, 07, 2021.
 
 1) Cálculo de IMC / BMI Calculator
 Esse programa calcula o IMC após pedir o peso e a altura do usuário. / This program calculates the user's BMI by asking weight and height.
