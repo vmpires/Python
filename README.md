@@ -15,3 +15,6 @@ Esse programa concatena duas listas e aplica os descontos da segunda na primeira
 
 4) Cálculo lista de salários - Imposto de Renda - Bruto e líquido / Gross salary and liquid salary after income tax discount.
 Esse programa calcula o valor do salário bruto, bem como o valor do salário líquido após dedução de imposto. / This program calculates the gross salary and the liquid salary after the income tax discount.
+
+5) Média dos alunos / Average grade using any number of grades
+Esse programa cálcula a média dos alunos independentemente do número de notas.
