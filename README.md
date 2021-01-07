@@ -21,3 +21,6 @@ Esse programa cálcula a média dos alunos independentemente do número de notas
 
 6) Contador com atribuição de par ou ímpar / Counter that assigns odds and evens.
 Este programa conta até o número atribuído e destaca se cada elemento é par ou ímpar.
+
+7) Identificação de nome específico / Identification of specific name, even if it's typed with caps.
+Esse programa identifica um nome e sobrenome específico independentemente de como for digitado (caixa baixa ou caixa alta).
