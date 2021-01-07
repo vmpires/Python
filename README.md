@@ -18,3 +18,6 @@ Esse programa calcula o valor do salário bruto, bem como o valor do salário l�
 
 5) Média dos alunos / Average grade using any number of grades
 Esse programa cálcula a média dos alunos independentemente do número de notas.
+
+6) Contador com atribuição de par ou ímpar / Counter that assigns odds and evens.
+Este programa conta até o número atribuído e destaca se cada elemento é par ou ímpar.
