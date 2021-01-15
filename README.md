@@ -30,3 +30,7 @@ Esse programa simula o jogo do PI onde deve-se fazer uma contagem do número inf
 
 9) Cálculo de Resinas (Genshin Impact) / Resin Calculator(Genshin Impact)
 Esse programa conta resinas (energia/stamina) referentes ao jogo online jogo Genshin Impact. / This program counts resins (energy/stamina) of the online game Genshin Impact.
+
+10) Árvore em Python / Python Tree
+Esse programa pede um número e cria uma árvore correspondente. / This program takes a number and draws a tree with the number's height.
+
