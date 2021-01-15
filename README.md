@@ -28,5 +28,5 @@ Esse programa identifica um nome e sobrenome específico independentemente de co
 8) Jogo do PI / PI Game
 Esse programa simula o jogo do PI onde deve-se fazer uma contagem do número informado substituindo 7, múltiplos de 7 e números que acabam em 7 por Pi. / This program simulates a game that counts the given number changing the number 7, numbers multiples by 7 and numbers that end in 7 by the expression Pi.
 
-9) Contador de Resinas (Genshin Impact) / Resin Counter (Genshin Impact)
-Esse programa conta resinas (energia/stamina) do jogo Genshin Impact. / This program counts resins (energy/stamina) of the online game Genshin Impact.
+9) Cálculo de Resinas (Genshin Impact) / Resin Calculator(Genshin Impact)
+Esse programa conta resinas (energia/stamina) referentes ao jogo online jogo Genshin Impact. / This program counts resins (energy/stamina) of the online game Genshin Impact.
