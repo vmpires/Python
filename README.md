@@ -1,6 +1,6 @@
 # JornadaByLearn
 
-Este repositório é produto de umm bootcamp chamado Jornada ByLearn, ministrada por Felipe Cabrera e feito entre 04/01/2021 e 07/01/2021. 
+Este repositório é produto do bootcamp Jornada ByLearn, ministrada por Felipe Cabrera e realizado entre 04/01/2021 e 07/01/2021. 
 
 This repository is product of a Python Bootcamp called Jornada ByLearn, taught by Felipe Cabrera and taken between January 04, 2021 and January, 07, 2021.
 
@@ -24,3 +24,9 @@ Este programa conta até o número atribuído e destaca se cada elemento é par 
 
 7) Identificação de nome específico / Identification of specific name, even if it's typed with caps.
 Esse programa identifica um nome e sobrenome específico independentemente de como for digitado (caixa baixa ou caixa alta).
+
+8) Jogo do PI / PI Game
+Esse programa simula o jogo do PI onde deve-se fazer uma contagem do número informado substituindo 7, múltiplos de 7 e números que acabam em 7 por Pi. / This program simulates a game that counts the given number changing the number 7, numbers multiples by 7 and numbers that end in 7 by the expression Pi.
+
+9) Contador de Resinas (Genshin Impact) / Resin Counter (Genshin Impact)
+Esse programa conta resinas (energia/stamina) do jogo Genshin Impact. / This program counts resins (energy/stamina) of the online game Genshin Impact.
