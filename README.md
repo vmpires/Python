@@ -56,3 +56,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 19) Prática do uso de funções básicas de cálculo de média.
 
+20) Programa que abre um source.txt, faz a leitura de cada linha substituindo qualquer número por x, além disso, oculta as linhas que começarem com "confidencial:", por fim, gera um "new.txt" com as alterações.
+
