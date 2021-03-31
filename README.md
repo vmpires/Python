@@ -38,3 +38,21 @@ Esse programa conta resinas (energia/stamina) referentes ao jogo online jogo Gen
 10) Árvore em Python / Python Tree
 Esse programa pede um número e cria uma árvore correspondente. / This program takes a number and draws a tree with the number's height.
 
+11) Programa que abre um arquivo de texto externo com notas e retorna a média
+
+12) Programa conversor de temperatura (Fahrenheit para celsius)
+
+13) Programa que abre um arquivo de texto externo com temperaturas e as converte usando o programa 12 como função
+
+14) Programa que diz que dia é hoje e dá mensagem diferente em caso de final de semana.
+
+15) Programa que recebe os catetos e dá o valor da hipotenusa.
+
+16) Programa que recebe o caminho de um arquivo e imprime propriedades.
+
+17) Programa que realiza o dimensionamento de um sistema de geração de energia solar ao receber o gasto médio mensal em kilowatts, também entrega a potência do sistema, número de módulos necessários, valor total do sistema e payback.
+
+18) Exercício para geração de arquivo CSV com horário e argumento
+
+19) Prática do uso de funções básicas de cálculo de média.
+
