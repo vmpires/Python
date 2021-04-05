@@ -1,27 +1,22 @@
-class Calc (object):
-    primeiro_valor = None
-    segundo_valor = None
+class Calculadora (object):
 
-    def Soma(primeiro_valor, segundo_valor):
-        soma = (primeiro_valor + segundo_valor)
-        print (f'Soma = {soma}')
+    def Soma(self,primeiro_valor,segundo_valor):
+        return (primeiro_valor + segundo_valor)    
 
-    def Subt(primeiro_valor, segundo_valor):
-        soma = (primeiro_valor - segundo_valor)
-        print (f'Subtração = {soma}')
+    def Subt(self,primeiro_valor,segundo_valor):
+        return (primeiro_valor - segundo_valor)
+      
+    def Mult(self,primeiro_valor,segundo_valor):
+        return (primeiro_valor * segundo_valor)   
 
-    def Mult(primeiro_valor, segundo_valor):
-        soma = (primeiro_valor * segundo_valor)
-        print (f'Multiplicação = {soma}')
+    def Div(self,primeiro_valor,segundo_valor):
+        try:
+           return(primeiro_valor / segundo_valor)
+        except ZeroDivisionError:
+            print ('Não existe divisão por 0.')
 
-    def Div(primeiro_valor, segundo_valor):
-        soma = (primeiro_valor / segundo_valor)
-        print (f'Divisão = {soma}')
-
-primeiro_valor = float(input('Qual o primeiro valor? '))
-segundo_valor = float(input('Qual o segundo valor? '))
-
-Calc.Soma(primeiro_valor,segundo_valor)
-Calc.Subt(primeiro_valor,segundo_valor)
-Calc.Mult(primeiro_valor,segundo_valor)
-Calc.Div(primeiro_valor,segundo_valor)
+Calc = Calculadora()
+print(Calc.Soma(10,4))
+print(Calc.Subt(10, 5))
+print(Calc.Mult(5,5))
+print(Calc.Div(10,0))
