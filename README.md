@@ -60,3 +60,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 21) Programa que faz download de uma imagem e informa se houve sucesso ou não na operação.
 
+Desafios Orientação a Objetos: 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
+
