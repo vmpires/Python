@@ -60,5 +60,11 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 21) Programa que faz download de uma imagem e informa se houve sucesso ou não na operação.
 
-Desafios Orientação a Objetos: 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
+22) Exercício que lê um arquivo CSV com 2 colunas e aplica uma função de cálculo de payback, sendo assim, gera um novo arquivo CSV com 3 colunas, incluindo o resultado do Payback dos 2 valores das colunas anteriores.
+
+23) Arquivo que lê informação específicas de um arquivo de texto com conteúdo formatado em JSON.
+
+Desafios Orientação a Objetos: 
+
+3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
 
