@@ -64,6 +64,10 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 23) Arquivo que lê informação específicas de um arquivo de texto com conteúdo formatado em JSON.
 
+24) Programa que faz a checagem de uma lista e vê se há elementos iguais.
+
+25) Desafio de lógica que consome uma lista e fornece média,moda,mediana e desvio padrão.
+
 Desafios Orientação a Objetos: 
 
 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
