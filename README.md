@@ -68,6 +68,10 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 25) Desafio de lógica que consome uma lista e fornece média,moda,mediana e desvio padrão.
 
+26) Programa que lê um arquivo de texto com diversos nomes, os separa, faz a contagem de frequencia e organiza em ordem alfabetica.
+
+27) Continuação do problema 26, tem a mesma função, porém, apenas com os primeiros nomes no arquivo de origem.
+
 Desafios Orientação a Objetos: 
 
 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
