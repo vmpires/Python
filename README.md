@@ -74,6 +74,8 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 28) Programa que faz a leitura de um arquivo de texto com formatação XML e filtra dados.
 
+29) Comparador de itens dentro de uma matriz: Este programa recebe uma matriz, faz a média dos valores inclusos e imprime quantos deles estão acima da média.
+
 Desafios Orientação a Objetos: 
 
 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
