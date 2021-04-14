@@ -72,6 +72,8 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 27) Continuação do problema 26, tem a mesma função, porém, apenas com os primeiros nomes no arquivo de origem.
 
+28) Programa que faz a leitura de um arquivo de texto com formatação XML e filtra dados.
+
 Desafios Orientação a Objetos: 
 
 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
