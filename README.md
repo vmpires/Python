@@ -76,6 +76,8 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 29) Comparador de itens dentro de uma matriz: Este programa recebe uma matriz, faz a média dos valores inclusos e imprime quantos deles estão acima da média.
 
+30) Jogo dos números aleatórios: Esse programa gera um número aleatório de 0 a 100 e pede pro usuário adivinhar, dando dicas (menor/maior) até que o usuário acerte, por fim, faz exibe a mensagem de acerto com o número de tentativas.
+
 Desafios Orientação a Objetos: 
 
 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
