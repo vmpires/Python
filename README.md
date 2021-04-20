@@ -78,6 +78,10 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 30) Jogo dos números aleatórios: Esse programa gera um número aleatório de 0 a 100 e pede pro usuário adivinhar, dando dicas (menor/maior) até que o usuário acerte, por fim, faz exibe a mensagem de acerto com o número de tentativas.
 
+31) Jogo do par ou impar: Esse programa recebe um número e fala qual o ímpar anterior e par posterior.
+
+32) Conversor de polegadas para centímetros
+
 Desafios Orientação a Objetos: 
 
 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
