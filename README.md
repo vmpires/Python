@@ -84,6 +84,8 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 33) Contador de dias de prazo: O programa recebe o dia da semana da compra e o prazo de entrega e imprime o dia que será recebido
 
+34) Image Rotate: Esse programa recebe um caminho de imagem, gira essa imagem 180 graus e salva a nova.
+
 Desafios Orientação a Objetos: 
 
 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
