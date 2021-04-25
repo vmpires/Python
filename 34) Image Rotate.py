@@ -4,8 +4,6 @@ from PIL import Image
 path = 'Selfportrait.jpg'
 
 colorImage  = Image.open(path)
-rotated     = colorImage.rotate(45)
 transposed  = colorImage.transpose(Image.ROTATE_180)
-
 transposed.save(path+"_rotate.jpg")
 print ('Imagem invertida com sucesso!')
