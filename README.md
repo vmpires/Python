@@ -88,7 +88,7 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 35) Programa que recebe lista de listas com nome de jogadores e gols feitos nas ultimas 5 temporadas, calcula as 3 melhores médias e exibe com o nome dos jogadores.
 
-36) Programa que dada uma série de transações, em várias contas de um banco que começam com saldo zero, imprimir o saldo final. Exemplo: [["12345", 50], ["12345", -20], ["98765", 25] ["98765", 50]] → "Conta 12345: 30. Conta 98765: 75".
+36) Simulador de Banco Simples: Programa que dada uma série de transações, em várias contas de um banco que começam com saldo zero, imprimir o saldo final. Exemplo: [["12345", 50], ["12345", -20], ["98765", 25] ["98765", 50]] → "Conta 12345: 30. Conta 98765: 75".
 
 Desafios Orientação a Objetos: 
 
