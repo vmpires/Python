@@ -90,6 +90,8 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 36) Simulador de Banco Simples: Programa que dada uma série de transações, em várias contas de um banco que começam com saldo zero, imprimir o saldo final. Exemplo: [["12345", 50], ["12345", -20], ["98765", 25] ["98765", 50]] → "Conta 12345: 30. Conta 98765: 75".
 
+37) Simulador de autonomia veicular: Esse programa calcula a autonomia de um veículo, recebe diversos trajetos e calcula a maior combinação de trajetos possíveis com a autonomia registrada, por fim, mostra quanto de autonomia resta.
+
 Desafios Orientação a Objetos: 
 
 3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
