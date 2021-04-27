@@ -92,7 +92,10 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 37) Simulador de autonomia veicular: Esse programa calcula a autonomia de um veículo, recebe diversos trajetos e calcula a maior combinação de trajetos possíveis com a autonomia registrada, por fim, mostra quanto de autonomia resta.
 
-Desafios Orientação a Objetos: 
+38) Treinamento de Programação Orientada a Objeto: Calculadora
 
-3 desafios envolvendo programação orientada a objetos, sendo um simulando uma concessionária, um simulando uma calculadora e outro simulando um cálculo de média.
+39) Treinamento de Programação Orientada a Objeto: Concessionária
+
+40) Treinamento de Programação Orientada a Objeto: Média
+
 
