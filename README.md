@@ -98,4 +98,6 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 40) Treinamento de Programação Orientada a Objeto: Média
 
+41) Calculador de notas/moedas: Esse programa recebe um valor e retorna quantas notas e moedas de cada são necessárias para completar o valor.
+
 
