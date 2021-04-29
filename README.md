@@ -100,4 +100,6 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 41) Calculador de notas/moedas: Esse programa recebe um valor e retorna quantas notas e moedas de cada são necessárias para completar o valor.
 
+42) Este programa recebe 3 valores e calcula x1 e x2 usando Bháskara caso seja possível.
+
 
