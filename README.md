@@ -92,14 +92,8 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 37) Simulador de autonomia veicular: Esse programa calcula a autonomia de um veículo, recebe diversos trajetos e calcula a maior combinação de trajetos possíveis com a autonomia registrada, por fim, mostra quanto de autonomia resta.
 
-38) Treinamento de Programação Orientada a Objeto: Calculadora
+38) Calculador de notas/moedas: Esse programa recebe um valor e retorna quantas notas e moedas de cada são necessárias para completar o valor.
 
-39) Treinamento de Programação Orientada a Objeto: Concessionária
-
-40) Treinamento de Programação Orientada a Objeto: Média
-
-41) Calculador de notas/moedas: Esse programa recebe um valor e retorna quantas notas e moedas de cada são necessárias para completar o valor.
-
-42) Este programa recebe 3 valores e calcula x1 e x2 usando Bháskara caso seja possível.
+39) Este programa recebe 3 valores e calcula x1 e x2 usando Bháskara caso seja possível.
 
 
