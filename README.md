@@ -96,4 +96,10 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 39) Este programa recebe 3 valores e calcula x1 e x2 usando Bháskara caso seja possível.
 
+40) Gerador de gráfico pizza: Este programa recebe 4 ou mais valores e insere em um gráfico de pizza.
+
+41) Sorteador de nomes: Este programa recebe nomes até que uma palavra finaliza o processo, sorteia os nomes e imprime o sorteado.
+
+42) Video Downloader: Este programa recebe o link de um video no YouTube e um caminho, após, faz o download do vídeo e salva no caminho recebido.
+
 
