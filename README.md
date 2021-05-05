@@ -102,4 +102,6 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 42) Video Downloader: Este programa recebe o link de um video no YouTube e um caminho, após, faz o download do vídeo e salva no caminho recebido.
 
+43) Gerador de QR Code: Este programa recebe um link e gera o QR Code apontando para o link em PNG.
+
 
