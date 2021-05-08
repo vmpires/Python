@@ -104,4 +104,6 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 43) Gerador de QR Code: Este programa recebe um link e gera o QR Code apontando para o link em PNG.
 
+44) Prática da biblioteca Beautiful Soup fazendo Webscrapping de uma página de clima.
+
 
