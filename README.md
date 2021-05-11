@@ -106,8 +106,10 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 44) Prática da biblioteca Beautiful Soup fazendo Webscrapping de uma página de clima.
 
-45) Programa que busca o IP de qualquer endereço de servidor
+45) Programa que busca o IP de qualquer endereço de servidor.
 
-46) Programa que recebe e traduz qualquer texto simples entre 2 idiomas informados
+46) Programa que recebe e traduz qualquer texto simples entre 2 idiomas informados.
+
+47) Gerador de Infos do sistema: Este programa imprime diversas informações de um PC.
 
 
