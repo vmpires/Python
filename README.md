@@ -114,4 +114,8 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 48) MP3 Video Downloader: Este programa recebe o link de um video no YouTube e um caminho, após, faz o download do MP3 do vídeo e salva no caminho recebido.
 
+49) Validador de e-mail
+
+50) URL Shortener / Encurtador de URL
+
 
