@@ -5,7 +5,7 @@ class TKinter_Template (object):
         frame = Frame(master)
         frame.grid()
         hello = Label (master,
-            text="Interface básica de Victor Milhome Pires usando TKinter",
+            text="Interface básica de Victor Pires usando TKinter",
             font=("Aril", 18)
         )
         hello.grid()
@@ -14,6 +14,6 @@ class TKinter_Template (object):
 if __name__ == '__main__':
     root = Tk()
     root.title('Projeto básico em TKinter')
-    root.geometry("600x80")
+    root.geometry("600x200")
     TKinter_Template(root)
     root.mainloop()
