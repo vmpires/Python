@@ -129,3 +129,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 55) Timer de 3 segundos em Python.
 
 56) Gerador de código de barras em Python.
+
+57) Prática de operações usando função lambda.
