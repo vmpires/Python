@@ -131,3 +131,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 56) Gerador de código de barras em Python.
 
 57) Prática de operações usando função lambda.
+
+58) Segunda chance - lista de exercícios Impacta: Este programa recebe um número de alunos, pede as notas das provas e depois as notas das atividades, sempre que uma atividade tiver nota 10, são adicionados 2 pontos à prova. Após, o programa lista todas as provas com nota original e alterada.
