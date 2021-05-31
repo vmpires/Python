@@ -135,3 +135,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 58) Segunda chance - lista de exercícios Impacta: Este programa recebe um número de alunos, pede as notas das provas e depois as notas das atividades, sempre que uma atividade tiver nota 10, são adicionados 2 pontos à prova. Após, o programa lista todas as provas com nota original e alterada.
 
 59) Lista de compras - lista de exercícios Impacta: Este programa recebe códigos de produto (caso hajam) e pede comandos para novos serem adicionados, removidos ou exibidos. Além disso, ao ser encerrado, exibe os códigos armazenados.
+
+60) Notificador do Windows - Esse programa recebe um texto para exibir como notificação do Windows 10.
