@@ -141,3 +141,7 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 61) Webscraping básico com Pandas.
 
 62) Tocador de sons do Windows 10 (Winsound alerts).
+
+63) Algoritmo do Bubble Sort - Este programa organiza uma lista pelo algoritmo Bubble Sort.
+
+
