@@ -145,3 +145,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 63) Algoritmo do Bubble Sort - Este programa organiza uma lista pelo algoritmo Bubble Sort.
 
 64) Prática de função com operadores ternários.
+
+65) Prática de consumo de dicionário via funções.
