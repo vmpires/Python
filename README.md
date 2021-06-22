@@ -147,3 +147,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 64) Prática de função com operadores ternários.
 
 65) Prática de consumo de dicionário via funções.
+
+66) Automação de sistemas e processos com PyAutoGui.

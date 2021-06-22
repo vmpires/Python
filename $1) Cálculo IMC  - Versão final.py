@@ -7,7 +7,7 @@ imc = peso / altura
 imc = int(imc)
 print(f'Seu IMC é {imc:.2f}.')
 if imc < 16:
-  print ('Bitch, you dead')
+  print ('Você está muito abaixo de seu peso ideal!')
 elif imc >= 16 and imc < 20:
  print ('Você está com subpeso.')
 elif imc >= 20 and imc < 25:
@@ -23,22 +23,22 @@ dieta = input('Gostaria de uma dica de dieta? Responda S para Sim e N para Não 
  
 if dieta == 'S':
    if imc < 16:
-    print ('Você já tá morto fera.')
+    print ('Você precisa comer MUITO.')
    elif imc > 16 and imc < 20:
-    print ('Come uns bacon aí caralho!')
+    print ('Você precisa se alimentar mais.')
    elif imc >= 20 and imc < 25:
-    print ('Pode comer qlqr porra!')
+    print ('Pode comer à vontade!')
    elif imc >= 25 and imc < 30:
-    print ('Dá uma segurada lek...')
+    print ('Dá uma segurada amigo.')
    elif imc >= 30 and imc < 40:
-    print ('Tá fudido, vai ter que comer só salada e treinar...')
+    print ('Só salada e treino.')
    elif imc >= 40:
-    print ('Faz uma cirurgia no estômago aí na moral.')
+    print ('Fazer cirurgia de redução do estômago')
 
 elif dieta == 'N':
-   print ('Vai se fuder então!')
+   print ('Adeus.')
 else :
-   print ('Sabe nem responder hein fera?!')
+   print ('Resposta incorreta.')
 
 input()
 
