@@ -16,9 +16,9 @@ pyautogui.hotkey('ctrl','v')
 pyautogui.press('enter')
 
 # Passo 2 - Entrar na pasta EXPORTAR
-time.sleep(5)
+time.sleep(3)
 pyautogui.click(402,299, clicks=2)
-time.sleep(2)
+time.sleep(3)
 
 # Passo 3 - Baixar e extrair informações do arquivo
 pyautogui.click(389,385) # Clicar no arquivo

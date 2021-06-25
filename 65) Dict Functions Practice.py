@@ -1,17 +1,11 @@
 
-def get_info(album):
-    infos = [album['title'], album['artist']]
-    tempos = []
-    for song in album['songs']:
-        tempos.append(song[1])
-    infos.append(f"Maior duração: {max(tempos)} mins.")
-    return (tuple(infos))
-
-def get_length(album):
-    albumlength = 0
-    for song in album['songs']:
-        albumlength += song[1]
-    return (f"Duração total: {albumlength} mins.")
+def get_infos(album):
+    temp = []
+    for i in range(len(album['songs'])):
+        temp.append(album['songs'][i][1])
+    indice = temp.index(max(temp))
+    tupla = (album['title'], album['artist'], album['songs'][indice])
+    return(tupla)
 
 album = {
     'title':'Is This It',
@@ -34,5 +28,4 @@ album = {
 }
 
 print(album['favorite'])
-print(get_info(album))
-print(get_length(album))
+print(get_infos(album))

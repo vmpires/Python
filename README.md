@@ -149,3 +149,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 65) Prática de consumo de dicionário via funções.
 
 66) Automação de sistemas e processos com PyAutoGui.
+
+67) Automação web com Selenium e manipulação de tabela com Pandas.
