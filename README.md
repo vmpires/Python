@@ -151,3 +151,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 66) Automação de sistemas e processos com PyAutoGui.
 
 67) Automação web com Selenium e manipulação de tabela com Pandas.
+
+68) Speed Test - Python.
