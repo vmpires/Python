@@ -153,3 +153,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 67) Automação web com Selenium e manipulação de tabela com Pandas.
 
 68) Speed Test - Python.
+
+69) Sensor Logic Practice
