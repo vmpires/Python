@@ -154,4 +154,6 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 68) Speed Test - Python.
 
-69) Sensor Logic Practice
+69) Sensor Logic Practice.
+
+70) Sensor Logic Practice 2 - JsonReader.
