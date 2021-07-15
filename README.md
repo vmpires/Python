@@ -157,3 +157,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 69) Sensor Logic Practice.
 
 70) Sensor Logic Practice 2 - JsonReader.
+
+71) Facial Recognition with OpenCV2.
