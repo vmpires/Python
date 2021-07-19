@@ -159,3 +159,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 70) Sensor Logic Practice 2 - JsonReader.
 
 71) Facial Recognition with OpenCV2.
+
+72) Conversor de Dolar em Real com a biblioteca Forex-Python.
