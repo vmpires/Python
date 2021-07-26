@@ -162,4 +162,6 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 72) Conversor de Dolar em Real com a biblioteca Forex-Python.
 
-73) Instagram photo downloader
+73) Instagram photo downloader.
+
+74) Localizador de texto em imagens.
