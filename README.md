@@ -165,3 +165,6 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 73) Instagram photo downloader.
 
 74) Localizador de texto em imagens.
+
+75) Barra de Carregamento em Python.
+
