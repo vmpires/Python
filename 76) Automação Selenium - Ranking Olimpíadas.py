@@ -1,15 +1,13 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 
-# Passo 1: Escolha o navegador e abra
+
 option = webdriver.ChromeOptions()
-option.add_argument('headless') #Set the parameters of the option
-navegador = webdriver.Chrome(chrome_options=option) # Open Google Chrome
+option.add_argument('headless') 
+navegador = webdriver.Chrome(chrome_options=option)
 
-# Passo 2: Use a função get para entrar no site
+
 navegador.get('https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm')
 
-# Passo 5: Procure a informação desejada usando o DEV TOOLS e pegue o dado de um dos elementos (DATA-VALUE)
 primeirolugar = navegador.find_element_by_xpath(
     '//*[@id="medal-standing-table"]/tbody/tr[1]/td[2]/div/a').text
 
