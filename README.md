@@ -172,3 +172,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 77) Beautiful Soup practice 2.
 
+78) Método MAP - Prática.
+
