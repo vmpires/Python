@@ -174,3 +174,7 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 78) Método MAP - Prática.
 
+79) Prática de Word Cloud.
+
+80) Stock informations - Yahoo Finance.
+
