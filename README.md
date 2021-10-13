@@ -180,3 +180,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 81) Linkedin Bot: Selenium bot that access and search on Linkedin.
 
+82) Donut Chart using MatplotLib.
+
