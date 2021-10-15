@@ -182,3 +182,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 82) Donut Chart using MatplotLib.
 
+83) Battery Check on Python with PSutil Library.
+
