@@ -184,3 +184,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 83) Battery Check on Python with PSutil Library.
 
+85) Tkinter Shutdown App.
+
