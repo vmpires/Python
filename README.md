@@ -186,3 +186,5 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 85) Tkinter Shutdown App.
 
+86) Gerador de Captcha.
+
