@@ -47,6 +47,6 @@ terceirobronzes = int(navegador.find_element_by_xpath(
 # Fecha o navegador
 navegador.quit()
 print("\nTop 3 Countries - 2020 Olympics - Japan\n")
-print(f'1º - {primeirolugar}: Gold: {primeiroouros} | Silve: {primeiropratas} | Bronze: {primeirobronzes} | Total: {primeiroouros+primeiropratas+primeirobronzes}\n')
+print(f'1º - {primeirolugar}: Gold: {primeiroouros} | Silver: {primeiropratas} | Bronze: {primeirobronzes} | Total: {primeiroouros+primeiropratas+primeirobronzes}\n')
 print(f'2º - {segundolugar}: Gold: {segundoouros} | Silver: {segundopratas} | Bronze: {segundobronzes} | Total: {segundoouros+segundopratas+segundobronzes}\n')
 print(f'3º - {terceirolugar}: Gold: {terceiroouros} | Silver: {terceiropratas} | Bronze: {terceirobronzes} | Total: {terceiroouros+terceiropratas+terceirobronzes}\n')
