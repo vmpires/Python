@@ -174,7 +174,7 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 78) Método MAP - Prática.
 
-79) Prática de Word Cloud.
+79) WordCloud Practice.
 
 80) Stock informations - Yahoo Finance.
 
@@ -186,5 +186,9 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 85) Tkinter Shutdown App.
 
-86) Gerador de Captcha.
+86) Captcha Generator.
+
+87) XPronounce + Warehouse separation.
+
+
 

@@ -11,4 +11,3 @@ data = image.generate(captcha_text)
 
 #Salva a imagem no caminho escolhido
 image.write(captcha_text, 'captcha.jpg')
-
