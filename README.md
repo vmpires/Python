@@ -190,5 +190,7 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 87) XPronounce + Warehouse separation.
 
+88) Exercício de ordenação de lugares X/Y em um Seatlist
+
 
 
