@@ -194,4 +194,7 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 
 89) Exercício de cálculo de avos de férias e 13º
 
+90) Função que calcula o caminho perfeito e a probabilidade
+de seu acontecimento em um tabuleiro unidimensional
+
 
