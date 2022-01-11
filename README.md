@@ -197,4 +197,7 @@ Esse programa pede um número e cria uma árvore correspondente. / This program 
 90) Função que calcula o caminho perfeito e a probabilidade
 de seu acontecimento em um tabuleiro unidimensional
 
+91) Variable Byte Sizes with SYS 
+
+92) Google Search with Python
 
