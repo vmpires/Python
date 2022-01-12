@@ -201,3 +201,7 @@ de seu acontecimento em um tabuleiro unidimensional
 
 92) Google Search with Python
 
+93) Uplading an image at AWS S3 Bucket
+
+94) Uploading another image with a progress bar class
+
