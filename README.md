@@ -205,3 +205,5 @@ de seu acontecimento em um tabuleiro unidimensional
 
 94) Uploading another image with a progress bar class
 
+95) Detecting Languages
+
