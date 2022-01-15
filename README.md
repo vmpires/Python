@@ -207,3 +207,5 @@ de seu acontecimento em um tabuleiro unidimensional
 
 95) Detecting Languages
 
+96) Playing with Amazon Rekognition
+
