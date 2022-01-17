@@ -209,3 +209,5 @@ de seu acontecimento em um tabuleiro unidimensional
 
 96) Playing with Amazon Rekognition
 
+97) Selection Sort Algorithm
+

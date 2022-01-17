@@ -32,7 +32,7 @@ def recognize_celebrities(photo):
 
 
 def main():    
-    photo = r"C:/Users/50s/Desktop/oscria.jpg"
+    photo = r"C:/Users/50s/Desktop/ImageRepo/joshua.jpg"
     #input("Digite o local da imagem: ")
     celeb_count = recognize_celebrities(photo)
     print("\nCelebridades detectadas: " + str(celeb_count))
