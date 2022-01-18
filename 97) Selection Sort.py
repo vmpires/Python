@@ -1,4 +1,4 @@
-# Selection Sort Algorithm - largest complexity among sort algorithms
+# Selection Sort Algorithm
 
 def SelectionSort(lista):
     n = len(lista)
