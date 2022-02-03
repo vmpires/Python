@@ -211,3 +211,9 @@ de seu acontecimento em um tabuleiro unidimensional
 
 97) Selection Sort Algorithm
 
+98) Insertion Sort Algorithm
+
+99) Quick Sort Algorithm
+
+100) Palindrome detect algorithm
+
