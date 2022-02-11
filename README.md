@@ -211,3 +211,5 @@ de seu acontecimento em um tabuleiro unidimensional
 
 100) Palindrome detect algorithm
 
+101) Cryptography snippet
+
