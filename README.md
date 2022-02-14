@@ -213,3 +213,4 @@ de seu acontecimento em um tabuleiro unidimensional
 
 101) Cryptography snippet
 
+102) Practicing the use of OS enviromental variables
