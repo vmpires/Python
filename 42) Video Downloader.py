@@ -9,7 +9,6 @@ yt = YouTube(link)
 print('Título: ',yt.title)
 print('Visualizações: ',yt.views)
 print('Tamanho: ',yt.length,"segundos")
-print('Avaliação: ',yt.rating)
 
 # Usa a maior resolução
 ys = yt.streams.get_highest_resolution()
